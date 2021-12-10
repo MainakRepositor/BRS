@@ -92,7 +92,7 @@ if nav == 'Recommender':
       st.warning(recommendations[j])
 
   st.markdown('--------------------------------------------------')
-  st.subheader('Developed by Anshika Singh')
+  st.subheader('Developed by Mainak Chaudhuri')
 
     
 
@@ -119,7 +119,7 @@ elif nav == 'Home':
   
 
     st.markdown('---------------------------------------------')
-    st.subheader('Developed by Anshika Singh')
+    st.subheader('Developed by Mainak Chaudhuri')
 
     
     
@@ -129,11 +129,11 @@ elif nav == 'Home':
 elif nav == 'About':
   st.subheader('About')
   st.markdown('----------------------------------')
-  st.markdown('#### Hello friends, I am Anshika Singh🌸.  Are you an avid reader like me and you need some really good recommendations about books? You have come to right place. At Recommended Reader, we will handpick the best books for you that you will definitely enjoy reading!')
+  st.markdown('#### Hello friends, I am Mainak Chaudhuri.  Are you an avid reader like me and you need some really good recommendations about books? You have come to right place. At Recommended Reader, we will handpick the best books for you that you will definitely enjoy reading!')
   
   st.markdown('--------------------------')
     
-  st.subheader('Developed by Anshika Singh')
+  st.subheader('Developed by Mainak Chaudhuri')
   
 
       
