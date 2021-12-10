@@ -1,2 +1,2 @@
-# Book-Recommendation-System
-Recommend books using ML
+# BRC_iNeuron
+Book Recommendation System for iNeuron Internship
